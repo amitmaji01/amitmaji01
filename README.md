@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm AmitMaji</h1>
-<h3 align="center">Data scientist</h3>
-(img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/do-you-need-a-phd-to-be-a-data-scientist/")
+<h3 align="center">Data scientist </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitmaji01&label=Profile%20views&color=0e75b6&style=flat" alt="amitmaji01" /> </p>
