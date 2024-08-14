@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-path/cs_programmer.png" alt="CS Programmer Image" width="600"/>
+  <img src="[https://user-images.githubusercontent.com/your-image-path/cs_programmer.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-programmer&psig=AOvVaw1f4kBcIin4IM4WOub8na9E&ust=1723739424118000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi_k6T29IcDFQAAAAAdAAAAABAE)" alt="CS Programmer Image" width="600"/>
 </p>
 
 <p align="center">
@@ -77,11 +77,11 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
 ### 🌱 Currently Learning
 
 - Deepening my knowledge in **Deep Learning** and **Natural Language Processing (NLP)**.
-- Exploring **Big Data** technologies and tools.
+- Exploring **Data Domain** technologies and tools.
 
 ### 💬 Ask Me About
 
-- Data Science, Machine Learning, and AI.
+- Data Science, Machine Learning, and Data Analytics.
 - Python programming and data manipulation.
 - Building predictive models and working with real-world datasets.
 
