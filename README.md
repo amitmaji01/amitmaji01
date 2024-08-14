@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amit Maji</h1>
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/your-image-path/cs_programmer.png" alt="CS Programmer Image" width="600"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitmaji01&label=Profile%20views&color=0e75b6&style=flat" alt="amitmaji01" /> 
@@ -20,8 +22,8 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
 <p align="left">
 <a href="https://www.linkedin.com/in/amit-maji-a421671bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 <a href="https://leetcode.com/amitmaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-<a href="mailto:amitmaji@example.com"><img align="center" src="https://img.icons8.com/ios-filled/50/000000/email-open.png" alt="Email" height="30" width="40" /></a>
-<a href="https://github.com/amitmaji01" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" height="30" width="40" /></a>
+<a href="mailto:amitmaji@example.com"><img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/email-open.png" alt="Email" height="30" width="40" /></a>
+<a href="https://github.com/amitmaji01" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" height="30" width="40" /></a>
 </p>
 
 ### 🛠️ Languages and Tools
@@ -50,7 +52,7 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
   </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
-  </a> 
+  </a>
 </p>
 
 ### 📊 GitHub Stats
@@ -75,11 +77,11 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
 ### 🌱 Currently Learning
 
 - Deepening my knowledge in **Deep Learning** and **Natural Language Processing (NLP)**.
-- Exploring **Data Domain** technologies and tools.
+- Exploring **Big Data** technologies and tools.
 
 ### 💬 Ask Me About
 
-- Data Science, Machine Learning, and Data Analytics.
+- Data Science, Machine Learning, and AI.
 - Python programming and data manipulation.
 - Building predictive models and working with real-world datasets.
 
