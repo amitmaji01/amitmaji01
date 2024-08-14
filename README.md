@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Maji</h1>
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-path/cs_programmer.png" alt="CS Programmer Image" width="600"/>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitmaji01&label=Profile%20views&color=0e75b6&style=flat" alt="amitmaji01" /> 
@@ -52,6 +50,12 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
   </a> 
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
+  </a>
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/>
   </a>
 </p>
 
