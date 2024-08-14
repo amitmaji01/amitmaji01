@@ -62,8 +62,8 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=amitmaji01&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitmaji01&" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amitmaji01&show_icons=true&locale=en" alt="GitHub Stats" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmaji01&" alt="GitHub Streak Stats" width="45%"/>
 </p>
 
 <p align="center">
