@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Maji</h1>
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
-<p align="center">
-  <img src="[https://user-images.githubusercontent.com/your-image-path/cs_programmer.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcomputer-programmer&psig=AOvVaw1f4kBcIin4IM4WOub8na9E&ust=1723739424118000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi_k6T29IcDFQAAAAAdAAAAABAE)" alt="CS Programmer Image" width="600"/>
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitmaji01&label=Profile%20views&color=0e75b6&style=flat" alt="amitmaji01" /> 
