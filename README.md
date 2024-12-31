@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github.com/whoisusmanali/whoisusmanali/blob/main/Google_Cloud_DataAnalytics-Bannergif.gif" alt="Data Science & AI" width="600"/> <!-- Image reflecting Data Science & AI -->
+  <img src="[https://github.com/whoisusmanali/whoisusmanali/blob/main/Google_Cloud_DataAnalytics-Bannergif.gif](https://camo.githubusercontent.com/a16f98206c5cc417104dec4a81199f79ac7066b80cf01fbfc2cd2fae44843f59/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f646174612d736369656e63652d322e676966)" alt="Data Science & AI" width="600"/> <!-- Image reflecting Data Science & AI -->
 </p>
 
 <p align="center">
