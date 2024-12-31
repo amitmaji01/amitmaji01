@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/F2KT3Rf.png" alt="Data Science & AI" width="600"/> <!-- Image reflecting Data Science & AI -->
+  <img src="https://github.com/whoisusmanali/whoisusmanali/blob/main/Google_Cloud_DataAnalytics-Bannergif.gif" alt="Data Science & AI" width="600"/> <!-- Image reflecting Data Science & AI -->
 </p>
 
 <p align="center">
@@ -94,7 +94,7 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
 - Python programming and data manipulation.
 - Building predictive models and working with real-world datasets.
 
-### 🎯 Goals for 2024
+### 🎯 Goals for 2025
 
 - Contribute more to open-source projects.
 - Publish articles and tutorials on data science.
