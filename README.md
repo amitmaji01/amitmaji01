@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amit Maji</h1>
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitmaji01&label=Profile%20views&color=0e75b6&style=flat" alt="amitmaji01" /> 
   <img src="https://img.shields.io/github/followers/amitmaji01?label=Followers&style=social" alt="followers">
@@ -24,7 +22,7 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
 <a href="https://github.com/amitmaji01" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FFFFFF/github.png" alt="GitHub" height="30" width="40" /></a>
 </p>
 
-### 🛠️ Languages and Tools
+### 🛠️ Skillset
 
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -56,6 +54,12 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.microsoft.com/en-us/research/project/generative-ai/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/OpenAI_Logo.svg/768px-OpenAI_Logo.svg.png" alt="Generative AI" width="40" height="40"/>
   </a>
 </p>
 
