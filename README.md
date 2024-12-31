@@ -2,6 +2,10 @@
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
 <p align="center">
+  <img src="https://i.imgur.com/F2KT3Rf.png" alt="Data Science & AI" width="600"/> <!-- Image reflecting Data Science & AI -->
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitmaji01&label=Profile%20views&color=0e75b6&style=flat" alt="amitmaji01" /> 
   <img src="https://img.shields.io/github/followers/amitmaji01?label=Followers&style=social" alt="followers">
   <img src="https://img.shields.io/github/stars/amitmaji01?label=Stars&style=social" alt="stars">
@@ -11,7 +15,7 @@
 
 ### 🌟 About Me
 
-I'm a **Data Science Enthusiast** driven by the desire to extract actionable insights from data. With a solid foundation in **Machine Learning**, **Data Analysis**, and **Python**, I thrive on building predictive models and solving complex problems. I'm always eager to learn and apply new techniques in the data domain.
+I'm a **Data Science Enthusiast** driven by the desire to extract actionable insights from data. With a solid foundation in **Machine Learning**, **Data Analysis**, **Python**, and **Generative AI**, I thrive on building predictive models and solving complex problems. I'm always eager to learn and apply new techniques in the data domain.
 
 ### 🔗 Connect with Me
 
@@ -23,8 +27,6 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
 </p>
 
 ### 🛠️ Skillset
-
-
 
 <p align="left"> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -54,14 +56,11 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgenai.works%2F&psig=AOvVaw1uqkbdtCUQfsjtDDrzDM0S&ust=1735754572773000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCmuOTL0ooDFQAAAAAdAAAAABAE" alt="Gen AI" width="40" height="40"/> 
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   </a>
 </p>
 
