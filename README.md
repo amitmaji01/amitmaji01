@@ -58,7 +58,7 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   </a>
   <a href="https://openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/OpenAI_Logo.svg" alt="Gen AI" width="40" height="40"/> 
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgenai.works%2F&psig=AOvVaw1uqkbdtCUQfsjtDDrzDM0S&ust=1735754572773000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCmuOTL0ooDFQAAAAAdAAAAABAE" alt="Gen AI" width="40" height="40"/> 
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="SQL" width="40" height="40"/>
