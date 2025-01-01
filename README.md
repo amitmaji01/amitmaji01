@@ -3,7 +3,7 @@
 
 
 <p align="center">
-<img src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif" style="width: 1000px; height: 250px;" alt="Data Science & AI">
+<img src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif" style="width: 1000px; height: 210px;" alt="Data Science & AI">
 </p>
 
 
@@ -73,7 +73,8 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
   <img src="https://github-readme-stats.vercel.app/api?username=amitmaji01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
   
   <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com/?user=amitmaji01&theme=tokyonight" alt="GitHub Streak Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmaji01&theme=tokyonight&v=1" alt="GitHub Streak Stats" width="45%" />
+
 </p>
 
 <p align="center">
