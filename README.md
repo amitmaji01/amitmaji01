@@ -68,14 +68,25 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amitmaji01&show_icons=true&locale=en" alt="GitHub Stats" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmaji01&" alt="GitHub Streak Stats" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=amitmaji01&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmaji01&theme=radical" alt="GitHub Streak Stats" width="45%" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitmaji01&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitmaji01&theme=radical" alt="Profile Details" width="90%"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=amitmaji01&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitmaji01&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
 
 ---
 
