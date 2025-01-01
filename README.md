@@ -3,11 +3,7 @@
 
 
 <p align="center">
-  <img 
-    src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif" 
-    style="width: 90%; padding: 5%;"
-    alt="Image reflecting Data Science & AI"
-  >
+   <img src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif" style="width: 10px;" alt="Data Science & AI">
 </p>
 
 
