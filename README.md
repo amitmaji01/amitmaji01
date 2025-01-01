@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Amit Maji</h1>
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
+
 <p align="center">
-  <img src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif"> <!-- Image reflecting Data Science & AI -->
+  <img 
+    src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif" 
+    style="width: 90%; padding: 5%;"
+    alt="Image reflecting Data Science & AI"
+  >
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitmaji01&label=Profile%20views&color=0e75b6&style=flat" alt="amitmaji01" /> 
