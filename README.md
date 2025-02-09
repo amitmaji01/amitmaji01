@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amit Maji</h1>
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
-
 <p align="center">
 <img src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif" style="width: 1000px; height: 210px;" alt="Data Science & AI">
 </p>
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=amitmaji01&label=Profile%20views&color=0e75b6&style=flat" alt="amitmaji01" /> 
@@ -49,11 +47,20 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/> 
   </a> 
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
+  </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
   </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/> 
+  <a href="https://huggingface.co/" target="_blank" rel="noreferrer"> 
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="40" height="40"/>
+  </a>
+  <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_Logo.png" alt="NLTK" width="40" height="40"/>
+  </a>
+  <a href="https://spark.apache.org/docs/latest/api/python/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="PySpark" width="40" height="40"/>
   </a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/>
@@ -64,30 +71,21 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://avatars.githubusercontent.com/u/107899318?s=200&v=4" alt="LangChain" width="40" height="40"/>
+  </a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=amitmaji01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="45%" />
-  
-  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amitmaji01&theme=tokyonight&v=1" alt="GitHub Streak Stats" width="45%" />
-
 </p>
 
 <p align="center">
-  <!-- GitHub Profile Summary Card -->
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amitmaji01&theme=tokyonight" alt="Profile Details" width="90%"/>
 </p>
-
-<p align="center">
-  <!-- Top Languages -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitmaji01&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-
 
 ---
 
@@ -99,14 +97,8 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
 
 ### 🌱 Currently Learning
 
-- Deepening my knowledge in **Deep Learning** and **Natural Language Processing (NLP)**.
-- Exploring **Big Data** technologies and tools.
-
-### 💬 Ask Me About
-
-- Data Science, Machine Learning, and AI.
-- Python programming and data manipulation.
-- Building predictive models and working with real-world datasets.
+- Deepening my knowledge in **Deep Learning**, **NLP**, and **LLMs**.
+- Exploring **Big Data** with **Spark & PySpark**.
 
 ### 🎯 Goals for 2025
 
