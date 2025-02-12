@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" style="width: 1000px; height: 210px;" alt="Data Science & AI">
+<img src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" style="width: 1000px; height: 300px;" alt="Data Science & AI">
 </p>
 
 <p align="center">
