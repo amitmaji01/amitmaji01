@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
 <p align="center">
-<img src="[[https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3b0JtqvV87dyifvUPc0Rq-&ust=1739442109396000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNik1fj0vYsDFQAAAAAdAAAAABAQ)](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)" style="width: 1000px; height: 210px;" alt="Data Science & AI">
+<img src="[[[https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3b0JtqvV87dyifvUPc0Rq-&ust=1739442109396000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNik1fj0vYsDFQAAAAAdAAAAABAQ)](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)](https://user-images.githubusercontent.com/64009514/102066398-c847f780-3e1f-11eb-8cb8-b9e5be919da2.gif)" style="width: 1000px; height: 210px;" alt="Data Science & AI">
 </p>
 
 <p align="center">
