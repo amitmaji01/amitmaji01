@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
 <p align="center">
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw3b0JtqvV87dyifvUPc0Rq-&ust=1739442109396000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNik1fj0vYsDFQAAAAAdAAAAABAm" style="width: 1000px; height: 210px;" alt="Data Science & AI">
+<img src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" style="width: 1000px; height: 210px;" alt="Data Science & AI">
 </p>
 
 <p align="center">
