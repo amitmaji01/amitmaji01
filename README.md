@@ -44,6 +44,9 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
 ![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23FF6600.svg?style=for-the-badge&logo=LangChain&logoColor=white)
+![Gen AI](https://img.shields.io/badge/Gen_AI-%23FF6600.svg?style=for-the-badge&logo=AI&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
 ### 📊 GitHub Stats
 
