@@ -1,4 +1,4 @@
-"<h1 align="center">Hi 👋, I'm Amit Maji</h1>
+<h1 align="center">Hi 👋, I'm Amit Maji</h1>
 <h3 align="center">Data Scientist & AI Enthusiast</h3>
 
 <p align="center">
@@ -36,16 +36,12 @@ I'm a **Data Science Enthusiast** driven by the desire to extract actionable ins
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%231C4861.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Flask](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFDD66.svg?style=for-the-badge&logo=HuggingFace&logoColor=black)
 ![NLTK](https://img.shields.io/badge/NLTK-%2300A300.svg?style=for-the-badge&logo=NLTK&logoColor=white)
-![Gen AI](https://img.shields.io/badge/HuggingFace-%23FFDD66.svg?style=for-the-badge&logo=HuggingFace&logoColor=black)
-
 ![Spark](https://img.shields.io/badge/Apache%20Spark-F6982E?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Open CV](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23FF6600.svg?style=for-the-badge&logo=LangChain&logoColor=white)
 
